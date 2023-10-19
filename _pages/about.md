@@ -12,7 +12,7 @@ I am Sasha Volokh, a Ph.D. Candidate in Computer Science at the University of So
 
 # Publications
 
-1. Automatically Defining Game Action Spaces for Exploration Using Program Analysis. Sasha Volokh and William G.J. Halfond. *In Proceedings of the Nineteenth AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment (AIIDE-23)*. October 2023.
+1. Automatically Defining Game Action Spaces for Exploration Using Program Analysis. Sasha Volokh and William G.J. Halfond. *In Proceedings of the Nineteenth AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment (AIIDE-23)*. October 2023. **Best Student Paper Award.**
 
 2. Static Analysis for Automated Identification of Valid Game Actions During Exploration. Sasha Volokh and William G.J. Halfond. *In 17th International Conference on the Foundations of Digital Games (FDG)*. September 2022. **Best Paper Award.**
 
