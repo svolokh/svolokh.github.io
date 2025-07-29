@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Sasha Volokh"
   avatar           : "profile.png"
-  bio              : "Ph.D. Candidate in Computer Science at the University of Southern California"
-  location         : "Los Angeles, CA, USA"
+  bio              : 
+  location         : 
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=DR0XBeAAAAAJ"

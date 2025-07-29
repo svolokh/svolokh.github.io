@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. Candidate in the Thomas Lord Department of Computer Science at the University of Southern California. My background includes the fields of software engineering, game development, and game AI. In my research I develop techniques for quality assurance of video games, leveraging a combination of program analysis and artificial intelligence approaches. My work is grounded in current game development practices and game engines, and evaluated via large-scale experiments across many existing games.
+My background includes the fields of software engineering, game development, and game AI. I completed my Ph.D. in Computer Science at the University of Southern California in May 2025, where my focus was about developing techniques for quality assurance of video games. In my research, I leverage a combination of program analysis and artificial intelligence approaches. My work is grounded in current game development practices and game engines, and evaluated via large-scale experiments across many existing games.
 
 # Select Publications
 
