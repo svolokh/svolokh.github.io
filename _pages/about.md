@@ -12,6 +12,8 @@ My background includes the fields of software engineering, game development, and
 
 # Select Publications
 
-1. Automatically Defining Game Action Spaces for Exploration Using Program Analysis. Sasha Volokh and William G.J. Halfond. *In Proceedings of the Nineteenth AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment (AIIDE-23)*. October 2023. **Best Student Paper Award.**
+1. Automatic Action Space Specification for Deep Reinforcement Learning in Games via Program Analysis. Sasha Volokh and William G.J. Halfond. *In Proceedings of the 2025 IEEE Conference on Games (CoG 2025)*. August 2025. \[[preprint](/resources/GameActionSpacesDRL.pdf)\] \[[DOI](https://doi.org/10.1109/CoG64752.2025.11114393)\]
 
-2. Static Analysis for Automated Identification of Valid Game Actions During Exploration. Sasha Volokh and William G.J. Halfond. *In 17th International Conference on the Foundations of Digital Games (FDG)*. September 2022. **Best Paper Award.**
+2. Automatically Defining Game Action Spaces for Exploration Using Program Analysis. Sasha Volokh and William G.J. Halfond. *In Proceedings of the Nineteenth AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment (AIIDE-23)*. October 2023. **Best Student Paper Award.** \[[DOI](https://doi.org/10.1609/aiide.v19i1.27510)\]
+
+3. Static Analysis for Automated Identification of Valid Game Actions During Exploration. Sasha Volokh and William G.J. Halfond. *In 17th International Conference on the Foundations of Digital Games (FDG)*. September 2022. **Best Paper Award.** \[[DOI](https://doi.org/10.1145/3555858.3555898)\]
